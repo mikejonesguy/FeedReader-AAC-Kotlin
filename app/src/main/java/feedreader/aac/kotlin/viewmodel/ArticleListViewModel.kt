@@ -5,7 +5,7 @@ import android.arch.lifecycle.MutableLiveData
 import android.arch.lifecycle.ViewModel
 import android.os.AsyncTask
 import feedreader.aac.kotlin.App
-import feedreader.aac.kotlin.http.FeedFetcher
+import feedreader.aac.kotlin.api.FeedFetcher
 import feedreader.aac.kotlin.model.AppDatabase
 import feedreader.aac.kotlin.model.Article
 import feedreader.aac.kotlin.model.Feed

@@ -1,4 +1,4 @@
-package feedreader.aac.kotlin.http
+package feedreader.aac.kotlin.api
 
 import android.util.Log
 import feedreader.aac.kotlin.model.Feed
